@@ -1,0 +1,871 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Car Dealer Theme\n"
+"POT-Creation-Date: 2017-10-16 17:21-0000\n"
+"PO-Revision-Date: 2017-12-17 19:06-0000\n"
+"Last-Translator: Bill <sergiominozzi@gmail.com>\n"
+"Language-Team: Bill <sergiominozzi@gmail.com>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.11\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __\n"
+"X-Poedit-SearchPath-0: F:/KarDealerTheme/kardealer_117/kardealer\n"
+
+#: F:\KarDealerTheme\kardealer_117\kardealer/archive.php:49
+#: F:\KarDealerTheme\kardealer_117\kardealer/index.php:46
+#: F:\KarDealerTheme\kardealer_117\kardealer/search.php:32
+msgid "Previous page"
+msgstr "Página anterior"
+
+#: F:\KarDealerTheme\kardealer_117\kardealer/archive.php:50
+#: F:\KarDealerTheme\kardealer_117\kardealer/index.php:47
+#: F:\KarDealerTheme\kardealer_117\kardealer/search.php:33
+msgid "Next page"
+msgstr "Próxima página"
+
+#: F:\KarDealerTheme\kardealer_117\kardealer/archive.php:51
+#: F:\KarDealerTheme\kardealer_117\kardealer/image.php:60
+#: F:\KarDealerTheme\kardealer_117\kardealer/index.php:48
+#: F:\KarDealerTheme\kardealer_117\kardealer/search.php:34
+#: F:\KarDealerTheme\kardealer_117\kardealer/template-parts/content-page.php:27
+#: F:\KarDealerTheme\kardealer_117\kardealer/template-parts/content-single.php:29
+#: F:\KarDealerTheme\kardealer_117\kardealer/template-parts/content.php:37
+msgid "Page"
+msgstr "Página"
+
+#: F:\KarDealerTheme\kardealer_117\kardealer/footer.php:58
+msgid "Powered by  kardealertheme.com"
+msgstr "Desenvolvido por kardealertheme.com"
+
+#: F:\KarDealerTheme\kardealer_117\kardealer/functions.php:113
+msgid "Primary Menu"
+msgstr "Menu Principal"
+
+#: F:\KarDealerTheme\kardealer_117\kardealer/functions.php:114
+msgid "Social Links Menu"
+msgstr "Menu de Links Sociais"
+
+#: F:\KarDealerTheme\kardealer_117\kardealer/functions.php:175
+msgid "Sidebar"
+msgstr "Barra Lateral"
+
+#: F:\KarDealerTheme\kardealer_117\kardealer/functions.php:177
+msgid "Add widgets here to appear in your sidebar."
+msgstr "Adicione widgets aqui para aparecer na barra lateral."
+
+#: F:\KarDealerTheme\kardealer_117\kardealer/functions.php:184
+msgid "First Footer Widget"
+msgstr "Primeiro Widget do Rodapé"
+
+#: F:\KarDealerTheme\kardealer_117\kardealer/functions.php:186
+msgid "Add widgets here to appear in your left footer."
+msgstr "Adicione widgets aqui para aparecer no seu rodapé esquerdo."
+
+#: F:\KarDealerTheme\kardealer_117\kardealer/functions.php:193
+msgid "Second Footer Widget"
+msgstr "Segundo Widget do Rodapé"
+
+#: F:\KarDealerTheme\kardealer_117\kardealer/functions.php:195
+msgid "Add widgets here to appear in your center footer."
+msgstr "Adicione widgets aqui para aparecer no seu rodapé do centro."
+
+#: F:\KarDealerTheme\kardealer_117\kardealer/functions.php:202
+msgid "Third Footer Widget"
+msgstr "Widget do Terceiro Rodapé"
+
+#: F:\KarDealerTheme\kardealer_117\kardealer/functions.php:204
+msgid "Add widgets here to appear in your right footer."
+msgstr "Adicione widgets aqui para aparecer no rodapé direito."
+
+#: F:\KarDealerTheme\kardealer_117\kardealer/functions.php:291
+msgid "expand child menu"
+msgstr "expandir menu filho"
+
+#: F:\KarDealerTheme\kardealer_117\kardealer/functions.php:292
+msgid "collapse child menu"
+msgstr "colapsa menu filho"
+
+#: F:\KarDealerTheme\kardealer_117\kardealer/image.php:24
+msgid "Previous Image"
+msgstr "Imagem Anterior"
+
+#: F:\KarDealerTheme\kardealer_117\kardealer/image.php:25
+msgid "Next Image"
+msgstr "Próxima Imagem"
+
+#: F:\KarDealerTheme\kardealer_117\kardealer/image.php:56
+#: F:\KarDealerTheme\kardealer_117\kardealer/template-parts/content-page.php:23
+#: F:\KarDealerTheme\kardealer_117\kardealer/template-parts/content-single.php:25
+#: F:\KarDealerTheme\kardealer_117\kardealer/template-parts/content.php:33
+msgid "Pages:"
+msgstr "Páginas:"
+
+#. translators: %s: Name of current post
+#: F:\KarDealerTheme\kardealer_117\kardealer/image.php:84
+#: F:\KarDealerTheme\kardealer_117\kardealer/template-parts/content-page.php:37
+#: F:\KarDealerTheme\kardealer_117\kardealer/template-parts/content-search.php:28
+#: F:\KarDealerTheme\kardealer_117\kardealer/template-parts/content-search.php:43
+#: F:\KarDealerTheme\kardealer_117\kardealer/template-parts/content-single.php:45
+#: F:\KarDealerTheme\kardealer_117\kardealer/template-parts/content.php:49
+#, php-format
+msgid "Edit<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr "Edite<span class=\"screen-reader-text\"> \"%s\"</span>"
+
+#: F:\KarDealerTheme\kardealer_117\kardealer/inc/back-compat.php:41
+#: F:\KarDealerTheme\kardealer_117\kardealer/inc/back-compat.php:53
+#: F:\KarDealerTheme\kardealer_117\kardealer/inc/back-compat.php:68
+#, php-format
+msgid ""
+"car dealer requires at least WordPress version 4.4. You are running version "
+"%s. Please upgrade and try again."
+msgstr ""
+"O car dealer exige pelo menos WordPress versão 4.4. Você está executando a "
+"versão% s.Por favor atualize e tente novamente."
+
+#: F:\KarDealerTheme\kardealer_117\kardealer/inc/class-tgm-plugin-activation.php:327
+msgid "Install Required Plugins"
+msgstr "Instalar Plugins Requeridos"
+
+#: F:\KarDealerTheme\kardealer_117\kardealer/inc/class-tgm-plugin-activation.php:328
+msgid "Install Plugins"
+msgstr "Instalar Plugins"
+
+#. translators: %s: plugin name.
+#: F:\KarDealerTheme\kardealer_117\kardealer/inc/class-tgm-plugin-activation.php:330
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr "Instalando o Plugin: %s"
+
+#. translators: %s: plugin name.
+#: F:\KarDealerTheme\kardealer_117\kardealer/inc/class-tgm-plugin-activation.php:332
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr "Atualização do Plugin: %s"
+
+#: F:\KarDealerTheme\kardealer_117\kardealer/inc/class-tgm-plugin-activation.php:333
+msgid "Something went wrong with the plugin API."
+msgstr "Algo deu errado com a API do plugin."
+
+#: F:\KarDealerTheme\kardealer_117\kardealer/inc/class-tgm-plugin-activation.php:385
+msgid "Return to Required Plugins Installer"
+msgstr "Voltar para Instalador de Plugins Requerido"
+
+#: F:\KarDealerTheme\kardealer_117\kardealer/inc/class-tgm-plugin-activation.php:386
+msgid "Return to the Dashboard"
+msgstr "Retorne ao Dashboard"
+
+#: F:\KarDealerTheme\kardealer_117\kardealer/inc/class-tgm-plugin-activation.php:387
+#: F:\KarDealerTheme\kardealer_117\kardealer/inc/class-tgm-plugin-activation.php:3159
+msgid "Plugin activated successfully."
+msgstr "Plugin ativado com sucesso."
+
+#: F:\KarDealerTheme\kardealer_117\kardealer/inc/class-tgm-plugin-activation.php:388
+msgid "The following plugin was activated successfully:"
+msgstr "O seguinte plugin foi ativado corretamente:"
+
+#. translators: 1: plugin name.
+#: F:\KarDealerTheme\kardealer_117\kardealer/inc/class-tgm-plugin-activation.php:390
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr "Nenhuma ação foi tomada. O plugin %1$s já estava ativado."
+
+#. translators: 1: plugin name.
+#: F:\KarDealerTheme\kardealer_117\kardealer/inc/class-tgm-plugin-activation.php:392
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+"Plugin não ativado. É necessária uma versão superior de %s para este tema. "
+"Por favor atualize o plugin."
+
+#. translators: 1: dashboard link.
+#: F:\KarDealerTheme\kardealer_117\kardealer/inc/class-tgm-plugin-activation.php:394
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr "Todos os plugins instalados e ativados com sucesso. %1$s"
+
+#: F:\KarDealerTheme\kardealer_117\kardealer/inc/class-tgm-plugin-activation.php:395
+msgid "Dismiss this notice"
+msgstr "Descartar esta notificação"
+
+#: F:\KarDealerTheme\kardealer_117\kardealer/inc/class-tgm-plugin-activation.php:396
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+"Há um ou mais plugins requeridos ou recomendados para instalar, atualizar ou "
+"ativar."
+
+#: F:\KarDealerTheme\kardealer_117\kardealer/inc/class-tgm-plugin-activation.php:397
+msgid "Please contact the administrator of this site for help."
+msgstr "Entre em contato com o administrador deste site para obter ajuda."
+
+#. translators: %s: version number
+#: F:\KarDealerTheme\kardealer_117\kardealer/inc/class-tgm-plugin-activation.php:1982
+#, php-format
+msgid "TGMPA v%s"
+msgstr "TGMPA v%s"
+
+#: F:\KarDealerTheme\kardealer_117\kardealer/inc/class-tgm-plugin-activation.php:2273
+msgid "Required"
+msgstr "Requerido"
+
+#: F:\KarDealerTheme\kardealer_117\kardealer/inc/class-tgm-plugin-activation.php:2276
+msgid "Recommended"
+msgstr "Recomendado"
+
+#: F:\KarDealerTheme\kardealer_117\kardealer/inc/class-tgm-plugin-activation.php:2292
+msgid "WordPress Repository"
+msgstr "Repositório WordPress"
+
+#: F:\KarDealerTheme\kardealer_117\kardealer/inc/class-tgm-plugin-activation.php:2295
+msgid "External Source"
+msgstr "Fonte Externa"
+
+#: F:\KarDealerTheme\kardealer_117\kardealer/inc/class-tgm-plugin-activation.php:2298
+msgid "Pre-Packaged"
+msgstr "Pré-Embalado"
+
+#: F:\KarDealerTheme\kardealer_117\kardealer/inc/class-tgm-plugin-activation.php:2315
+msgid "Not Installed"
+msgstr "Não Instalado"
+
+#: F:\KarDealerTheme\kardealer_117\kardealer/inc/class-tgm-plugin-activation.php:2319
+msgid "Installed But Not Activated"
+msgstr "Instalado Mas Não Ativado"
+
+#: F:\KarDealerTheme\kardealer_117\kardealer/inc/class-tgm-plugin-activation.php:2321
+msgid "Active"
+msgstr "Ativado"
+
+#: F:\KarDealerTheme\kardealer_117\kardealer/inc/class-tgm-plugin-activation.php:2327
+msgid "Required Update not Available"
+msgstr "Atualização Requerida não Disponível"
+
+#: F:\KarDealerTheme\kardealer_117\kardealer/inc/class-tgm-plugin-activation.php:2330
+msgid "Requires Update"
+msgstr "Requer Atualização"
+
+#: F:\KarDealerTheme\kardealer_117\kardealer/inc/class-tgm-plugin-activation.php:2333
+msgid "Update recommended"
+msgstr "Atualização recomendada"
+
+#: F:\KarDealerTheme\kardealer_117\kardealer/inc/class-tgm-plugin-activation.php:2490
+msgid "Installed version:"
+msgstr "Versão instalada:"
+
+#: F:\KarDealerTheme\kardealer_117\kardealer/inc/class-tgm-plugin-activation.php:2498
+msgid "Minimum required version:"
+msgstr "Versão mínima exigida:"
+
+#: F:\KarDealerTheme\kardealer_117\kardealer/inc/class-tgm-plugin-activation.php:2510
+msgid "Available version:"
+msgstr "Versão disponível:"
+
+#: F:\KarDealerTheme\kardealer_117\kardealer/inc/class-tgm-plugin-activation.php:2547
+msgid "Plugin"
+msgstr "Plugin"
+
+#: F:\KarDealerTheme\kardealer_117\kardealer/inc/class-tgm-plugin-activation.php:2548
+msgid "Source"
+msgstr "Fonte"
+
+#: F:\KarDealerTheme\kardealer_117\kardealer/inc/class-tgm-plugin-activation.php:2549
+msgid "Type"
+msgstr "Tipo"
+
+#: F:\KarDealerTheme\kardealer_117\kardealer/inc/class-tgm-plugin-activation.php:2553
+msgid "Version"
+msgstr "Versão"
+
+#: F:\KarDealerTheme\kardealer_117\kardealer/inc/class-tgm-plugin-activation.php:2554
+msgid "Status"
+msgstr "Status"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: F:\KarDealerTheme\kardealer_117\kardealer/inc/class-tgm-plugin-activation.php:2603
+#, php-format
+msgid "Install %2$s"
+msgstr "Instalar %2$s"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: F:\KarDealerTheme\kardealer_117\kardealer/inc/class-tgm-plugin-activation.php:2608
+#, php-format
+msgid "Update %2$s"
+msgstr "Atualizar %2$s"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: F:\KarDealerTheme\kardealer_117\kardealer/inc/class-tgm-plugin-activation.php:2614
+#, php-format
+msgid "Activate %2$s"
+msgstr "Ativar %2$s"
+
+#: F:\KarDealerTheme\kardealer_117\kardealer/inc/class-tgm-plugin-activation.php:2717
+msgid "Install"
+msgstr "Instalar"
+
+#: F:\KarDealerTheme\kardealer_117\kardealer/inc/class-tgm-plugin-activation.php:2723
+msgid "Update"
+msgstr "Atualizar"
+
+#: F:\KarDealerTheme\kardealer_117\kardealer/inc/class-tgm-plugin-activation.php:2726
+msgid "Activate"
+msgstr "Ativar"
+
+#: F:\KarDealerTheme\kardealer_117\kardealer/inc/class-tgm-plugin-activation.php:2757
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+"Nenhum plugin foi selecionado para ser instalado. Nenhuma ação foi tomada."
+
+#: F:\KarDealerTheme\kardealer_117\kardealer/inc/class-tgm-plugin-activation.php:2759
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+"Nenhum plugin foi selecionado para ser atualizado. Nenhuma ação foi tomada."
+
+#: F:\KarDealerTheme\kardealer_117\kardealer/inc/class-tgm-plugin-activation.php:2800
+msgid "No plugins are available to be installed at this time."
+msgstr "Nenhum plugin está disponível para ser instalado no momento."
+
+#: F:\KarDealerTheme\kardealer_117\kardealer/inc/class-tgm-plugin-activation.php:2802
+msgid "No plugins are available to be updated at this time."
+msgstr "Nenhum plugin está disponível para ser atualizado neste momento."
+
+#: F:\KarDealerTheme\kardealer_117\kardealer/inc/class-tgm-plugin-activation.php:3158
+msgid "Plugin activation failed."
+msgstr "A ativação do plugin falhou."
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: F:\KarDealerTheme\kardealer_117\kardealer/inc/class-tgm-plugin-activation.php:3498
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr "Atualizando o Plugin %1$s (%2$d/%3$d)"
+
+#. translators: 1: plugin name, 2: error message.
+#: F:\KarDealerTheme\kardealer_117\kardealer/inc/class-tgm-plugin-activation.php:3501
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr "Ocorreu um erro ao instalar %1$s: <strong>%2$s</strong>."
+
+#. translators: 1: plugin name.
+#: F:\KarDealerTheme\kardealer_117\kardealer/inc/class-tgm-plugin-activation.php:3503
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr "A instalação do %1$s falhou."
+
+#: F:\KarDealerTheme\kardealer_117\kardealer/inc/class-tgm-plugin-activation.php:3507
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+"O processo de instalação e ativação está começando. Este processo pode "
+"demorar um pouco em alguns hosts, por favor seja paciente."
+
+#. translators: 1: plugin name.
+#: F:\KarDealerTheme\kardealer_117\kardealer/inc/class-tgm-plugin-activation.php:3509
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr "%1$s instalado e ativado com sucesso."
+
+#: F:\KarDealerTheme\kardealer_117\kardealer/inc/class-tgm-plugin-activation.php:3510
+msgid "All installations and activations have been completed."
+msgstr "Todas as instalações e ativações foram concluídas."
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: F:\KarDealerTheme\kardealer_117\kardealer/inc/class-tgm-plugin-activation.php:3512
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr "Instalando e Ativando o Plugin %1$s (%2$d/%3$d)"
+
+#: F:\KarDealerTheme\kardealer_117\kardealer/inc/class-tgm-plugin-activation.php:3515
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+"O processo de instalação está começando. Este processo pode demorar um pouco "
+"em alguns hosts, então por favor seja paciente."
+
+#: F:\KarDealerTheme\kardealer_117\kardealer/inc/class-tgm-plugin-activation.php:3518
+msgid "All installations have been completed."
+msgstr "Todas as instalações foram concluídas."
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: F:\KarDealerTheme\kardealer_117\kardealer/inc/class-tgm-plugin-activation.php:3520
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr "Instalando o Plugin %1$s (%2$d/%3$d)"
+
+#: F:\KarDealerTheme\kardealer_117\kardealer/inc/customizer.php:113
+msgid "Branding Margin From Top"
+msgstr "Margem de Topo do Logo"
+
+#: F:\KarDealerTheme\kardealer_117\kardealer/inc/customizer.php:116
+msgid "Choose from -20px to 100px"
+msgstr "Escolha entre -20px e 100px"
+
+#: F:\KarDealerTheme\kardealer_117\kardealer/inc/customizer.php:128
+msgid "Layout"
+msgstr "Layout"
+
+#: F:\KarDealerTheme\kardealer_117\kardealer/inc/customizer.php:131
+msgid "Change General options here."
+msgstr "Mude as opções Gerais aqui."
+
+#: F:\KarDealerTheme\kardealer_117\kardealer/inc/customizer.php:144
+msgid "Show entry-title"
+msgstr "Mostrar título de entrada"
+
+#: F:\KarDealerTheme\kardealer_117\kardealer/inc/customizer.php:158
+msgid "Show Sidebar at blog homepage."
+msgstr "Mostrar Barra Lateral na página inicial."
+
+#: F:\KarDealerTheme\kardealer_117\kardealer/inc/customizer.php:173
+msgid "Website Layout"
+msgstr "Layout do Site"
+
+#: F:\KarDealerTheme\kardealer_117\kardealer/inc/customizer.php:190
+msgid "Background transparency (opacity)"
+msgstr "Transparência de fundo (opacidade)"
+
+#: F:\KarDealerTheme\kardealer_117\kardealer/inc/customizer.php:191
+msgid "Choose from .6 to 1"
+msgstr "Escolha entre .6 a 1"
+
+#: F:\KarDealerTheme\kardealer_117\kardealer/inc/customizer.php:203
+msgid "Top Header Settings"
+msgstr "Configurações Principais do Cabeçalho"
+
+#: F:\KarDealerTheme\kardealer_117\kardealer/inc/customizer.php:220
+msgid "Show"
+msgstr "Exposição"
+
+#: F:\KarDealerTheme\kardealer_117\kardealer/inc/customizer.php:221
+msgid ""
+"Show Top Header Info (email, phone, hours) and Social Media Menu at top "
+"header."
+msgstr ""
+"Mostre as Informações do Cabeçalho (email, telefone, horas) e o Menu de "
+"Mídia Social no cabeçalho principal."
+
+#: F:\KarDealerTheme\kardealer_117\kardealer/inc/customizer.php:230
+msgid "Top Info Phone"
+msgstr "Número do Telefone no Topo da Página"
+
+#: F:\KarDealerTheme\kardealer_117\kardealer/inc/customizer.php:240
+msgid "Top Info eMail"
+msgstr "Endereço do Email no Topo da Página"
+
+#: F:\KarDealerTheme\kardealer_117\kardealer/inc/customizer.php:249
+msgid "Top Info Hours"
+msgstr "Horário de Funcionamento no Topo da Página"
+
+#: F:\KarDealerTheme\kardealer_117\kardealer/inc/customizer.php:260
+msgid "Header Top Info Color"
+msgstr ""
+"TRADUZ?????   Cabeçalho Top Info Color     Informações das Cores mais "
+"Importantes do Cabeçalho?   OU TA TUDO ATRAPALHADO?"
+
+#: F:\KarDealerTheme\kardealer_117\kardealer/inc/customizer.php:272
+msgid "Header Settings"
+msgstr "Configurações do Cabeçalho"
+
+#: F:\KarDealerTheme\kardealer_117\kardealer/inc/customizer.php:286
+#: F:\KarDealerTheme\kardealer_117\kardealer/inc/customizer.php:329
+msgid "Header Background Color"
+msgstr "Cabeçalho de Cor de Fundo"
+
+#: F:\KarDealerTheme\kardealer_117\kardealer/inc/customizer.php:303
+msgid "Show border"
+msgstr "Mostrar borda"
+
+#: F:\KarDealerTheme\kardealer_117\kardealer/inc/customizer.php:315
+msgid "Header Bottom Border Color"
+msgstr "Cor da Borda Inferior do Cabeçalho"
+
+#: F:\KarDealerTheme\kardealer_117\kardealer/inc/customizer.php:343
+msgid "Header Text Color"
+msgstr "Cor do Texto do Cabeçalho"
+
+#: F:\KarDealerTheme\kardealer_117\kardealer/inc/customizer.php:360
+msgid "Shopping Cart Text Color"
+msgstr "Cor do Texto do Carrinho de Compras"
+
+#: F:\KarDealerTheme\kardealer_117\kardealer/inc/customizer.php:374
+msgid "Main Navigation Design"
+msgstr "CHECAR  Design da Navegação Principal"
+
+#: F:\KarDealerTheme\kardealer_117\kardealer/inc/customizer.php:378
+msgid "Change Navigation detais here."
+msgstr "Mude os detalhes da Navegação aqui."
+
+#: F:\KarDealerTheme\kardealer_117\kardealer/inc/customizer.php:390
+msgid "Menu Margin Top"
+msgstr "Topo da Margem do Menu"
+
+#: F:\KarDealerTheme\kardealer_117\kardealer/inc/customizer.php:391
+msgid "Choose from -20 to 50 Pixels."
+msgstr "Escolha entre -20 a 50 Pixels."
+
+#: F:\KarDealerTheme\kardealer_117\kardealer/inc/customizer.php:407
+msgid "Menu Margin Right"
+msgstr "Margem Direita do Menu"
+
+#: F:\KarDealerTheme\kardealer_117\kardealer/inc/customizer.php:408
+msgid "Choose from -20 to 30 Pixels."
+msgstr "Escolha entre -20 a 30 Pixels."
+
+#: F:\KarDealerTheme\kardealer_117\kardealer/inc/customizer.php:423
+msgid "Menu Font Size"
+msgstr "Tamanho da Fonte do Menu"
+
+#: F:\KarDealerTheme\kardealer_117\kardealer/inc/customizer.php:424
+msgid "Choose from 12 to 20 Pixels."
+msgstr "Escolha de 12 a 20 Pixels."
+
+#: F:\KarDealerTheme\kardealer_117\kardealer/inc/customizer.php:439
+msgid "Background Navigation Color"
+msgstr "Cor de Navegação de Fundo"
+
+#: F:\KarDealerTheme\kardealer_117\kardealer/inc/customizer.php:453
+msgid "Menu Text Color"
+msgstr "Cor do Texto do Menu"
+
+#: F:\KarDealerTheme\kardealer_117\kardealer/inc/customizer.php:467
+msgid "Menu Text Hover Color"
+msgstr "CHECAR    BEM     Cor do Texto da Coluna de Deslocamento do Menu"
+
+#: F:\KarDealerTheme\kardealer_117\kardealer/inc/customizer.php:481
+msgid "Sub Menu Background"
+msgstr "Sub Fundo do Menu"
+
+#: F:\KarDealerTheme\kardealer_117\kardealer/inc/customizer.php:495
+msgid "Sub Menu Text Color"
+msgstr "Cor do Texto do Sub Menu "
+
+#: F:\KarDealerTheme\kardealer_117\kardealer/inc/customizer.php:509
+msgid "Sub Menu Hover color"
+msgstr "Cor do Sub Menu em Cima do Cursor"
+
+#: F:\KarDealerTheme\kardealer_117\kardealer/inc/customizer.php:523
+msgid "Sub Menu Hover Background"
+msgstr "CHECAR CHECAR   Cor de fundo do Sub Menu em Cima do Cursor"
+
+#: F:\KarDealerTheme\kardealer_117\kardealer/inc/customizer.php:535
+msgid "Social Navigation Design"
+msgstr "Design de Navegação Social"
+
+#: F:\KarDealerTheme\kardealer_117\kardealer/inc/customizer.php:552
+msgid "Social Menu Color"
+msgstr "Cor do Menu Social"
+
+#: F:\KarDealerTheme\kardealer_117\kardealer/inc/customizer.php:555
+#: F:\KarDealerTheme\kardealer_117\kardealer/inc/customizer.php:644
+msgid "White"
+msgstr "Branco"
+
+#: F:\KarDealerTheme\kardealer_117\kardealer/inc/customizer.php:556
+#: F:\KarDealerTheme\kardealer_117\kardealer/inc/customizer.php:645
+#: F:\KarDealerTheme\kardealer_117\kardealer/inc/customizer.php:916
+msgid "Gray"
+msgstr "Cinza"
+
+#: F:\KarDealerTheme\kardealer_117\kardealer/inc/customizer.php:557
+#: F:\KarDealerTheme\kardealer_117\kardealer/inc/customizer.php:646
+#: F:\KarDealerTheme\kardealer_117\kardealer/inc/customizer.php:905
+msgid "Dark"
+msgstr "Escuro"
+
+#: F:\KarDealerTheme\kardealer_117\kardealer/inc/customizer.php:566
+#: F:\KarDealerTheme\kardealer_117\kardealer/inc/help.php:419
+msgid "Footer Copyright"
+msgstr "Copyright do Rodapé"
+
+#: F:\KarDealerTheme\kardealer_117\kardealer/inc/customizer.php:578
+msgid "Copyright Footer Text Here"
+msgstr "Texto do Copyright do Rodapé Aqui"
+
+#: F:\KarDealerTheme\kardealer_117\kardealer/inc/customizer.php:589
+msgid "Copyright Background Color"
+msgstr "Cor de Fundo do Copyright"
+
+#: F:\KarDealerTheme\kardealer_117\kardealer/inc/customizer.php:603
+msgid "Copyright Text Color"
+msgstr "Cor do Texto do Copyright"
+
+#: F:\KarDealerTheme\kardealer_117\kardealer/inc/customizer.php:624
+msgid "Footer Background"
+msgstr "Fundo do Rodapé"
+
+#: F:\KarDealerTheme\kardealer_117\kardealer/inc/customizer.php:641
+msgid "Footer Background Color"
+msgstr "Cor de Fundo do Rodapé"
+
+#: F:\KarDealerTheme\kardealer_117\kardealer/inc/customizer.php:782
+msgid "Base Color Scheme"
+msgstr "Esquema Básico de Cores"
+
+#: F:\KarDealerTheme\kardealer_117\kardealer/inc/customizer.php:795
+msgid "Page Background Color"
+msgstr "Cor de Fundo da Página"
+
+#: F:\KarDealerTheme\kardealer_117\kardealer/inc/customizer.php:807
+msgid "Link Color"
+msgstr "Cor do Link"
+
+#: F:\KarDealerTheme\kardealer_117\kardealer/inc/customizer.php:817
+msgid "Main Text Color"
+msgstr "Cor do Texto Principal"
+
+#: F:\KarDealerTheme\kardealer_117\kardealer/inc/customizer.php:827
+msgid "Secondary Text Color"
+msgstr "Cor do Texto Secundário"
+
+#: F:\KarDealerTheme\kardealer_117\kardealer/inc/customizer.php:894
+msgid "Default"
+msgstr "Padrão"
+
+#: F:\KarDealerTheme\kardealer_117\kardealer/inc/customizer.php:927
+msgid "Orange"
+msgstr "Laranja"
+
+#: F:\KarDealerTheme\kardealer_117\kardealer/inc/customizer.php:938
+msgid "Blue"
+msgstr "Azul"
+
+#: F:\KarDealerTheme\kardealer_117\kardealer/inc/feedback.php:156
+msgid "Bill Minozzi"
+msgstr "Bill Minozzi"
+
+#: F:\KarDealerTheme\kardealer_117\kardealer/inc/feedback.php:160
+msgid "Hello, my name is Bill Minozzi, and I am developer of"
+msgstr "Olá, meu nome é Bill Minozzi, e sou desenvolvedor de"
+
+#: F:\KarDealerTheme\kardealer_117\kardealer/inc/feedback.php:163
+msgid ""
+"If you like this product, please write a few words about it. It will help "
+"other people find this useful plugin more quickly.<br><b>Thank you!</b>"
+msgstr ""
+"Se você gosta deste produto, por favor escreva algumas palavras sobre ele. "
+"Isso ajudará outras pessoas a encontrá-lo mais rapidamente.<br><b>Obrigado! "
+"</b>"
+
+#: F:\KarDealerTheme\kardealer_117\kardealer/inc/feedback.php:165
+msgid "Rate or Share"
+msgstr "Avalie ou Compartilhe"
+
+#: F:\KarDealerTheme\kardealer_117\kardealer/inc/feedback.php:166
+msgid "No, dismiss"
+msgstr "Não, dispensar"
+
+#: F:\KarDealerTheme\kardealer_117\kardealer/inc/feedback.php:167
+msgid "or"
+msgstr "ou"
+
+#: F:\KarDealerTheme\kardealer_117\kardealer/inc/feedback.php:168
+msgid "Remind me later"
+msgstr "Lembre-me mais tarde"
+
+#: F:\KarDealerTheme\kardealer_117\kardealer/inc/help.php:322
+msgid ""
+"Kar Dealer is a responsive and not intimidating, easy-to-use WordPress theme."
+msgstr ""
+"CHECAR       Kar Dealer é um tema responsivo e não intimidante, fácil de "
+"usar nos temas do WordPress."
+
+#: F:\KarDealerTheme\kardealer_117\kardealer/inc/help.php:325
+msgid "You can find also our complete Theme OnLine Guide"
+msgstr "Você também pode encontrar nosso Guia completo de Temas OnLine"
+
+#: F:\KarDealerTheme\kardealer_117\kardealer/inc/help.php:327
+msgid "here"
+msgstr "aqui"
+
+#: F:\KarDealerTheme\kardealer_117\kardealer/inc/help.php:330
+msgid "Kar Dealer Theme has an advanced panel that is loaded with options."
+msgstr "Nosso Tema Kar Dealer  tem um painel avançado  carregado de opções."
+
+#: F:\KarDealerTheme\kardealer_117\kardealer/inc/help.php:332
+msgid ""
+"Go to Appearance > Customize and take a look. We've organized them into "
+"logical sets and have given  descriptions for items that need it, most "
+"things are self explanatory. Be sure to hit Save Changes to save your "
+"settings once you are done."
+msgstr ""
+"ME FALA QUE EU DIGITO   Vá para Aparência> Personalize e dê uma olhada. Nós "
+"os organizamos em conjuntos lógicos e deram descrições de itens que precisam "
+"dele, a maioria das coisas é auto-explicativa. Certifique-se de clicar em "
+"Salvar alterações para salvar suas configurações assim que terminar."
+
+#: F:\KarDealerTheme\kardealer_117\kardealer/inc/help.php:335
+msgid ""
+"Once you have created your home page, you need to select it to show up as "
+"the home page. To do this, follow the steps below."
+msgstr ""
+"Uma vez que você criou sua página inicial, você precisa selecioná-la para "
+"aparecer como página inicial. Para fazer isso, siga as etapas abaixo."
+
+#: F:\KarDealerTheme\kardealer_117\kardealer/inc/help.php:337
+msgid "Navigate to Settings > Reading"
+msgstr "Navegue até Configurações > Leitura"
+
+#: F:\KarDealerTheme\kardealer_117\kardealer/inc/help.php:339
+msgid "Select A Static Page for Front Page Displays"
+msgstr "Selecione uma Página Estática para Exibir a Página Inicial"
+
+#: F:\KarDealerTheme\kardealer_117\kardealer/inc/help.php:341
+msgid "Select your new home page for the Front Page"
+msgstr "Selecione sua nova página inicial para a Página Inicial"
+
+#: F:\KarDealerTheme\kardealer_117\kardealer/inc/help.php:343
+msgid "This is also the same spot you select the Blog page"
+msgstr "Este é também o mesmo local em que você seleciona a página do Blog"
+
+#: F:\KarDealerTheme\kardealer_117\kardealer/inc/help.php:345
+msgid "Save"
+msgstr "Salve "
+
+#: F:\KarDealerTheme\kardealer_117\kardealer/inc/help.php:348
+msgid "Go to Dashboard  Appearence => Customize  => Menus and setup the menu."
+msgstr ""
+"Vá para Dashboard Appearence => Personalizar => Menus e configure o menu."
+
+#: F:\KarDealerTheme\kardealer_117\kardealer/inc/help.php:350
+msgid "Here is the wordpress help:"
+msgstr "Aqui está a ajuda wordpress:"
+
+#: F:\KarDealerTheme\kardealer_117\kardealer/inc/help.php:353
+msgid "https://codex.wordpress.org/WordPress_Menu_User_Guide"
+msgstr "https://codex.wordpress.org/WordPress_Menu_User_Guide"
+
+#: F:\KarDealerTheme\kardealer_117\kardealer/inc/help.php:356
+msgid ""
+"Go to Dashboard  Appearence => Customize  => Settings => Site Identity and "
+"setup the logo."
+msgstr ""
+"VOCE QUE JA TINHA TRADUZIDO, CERTO?  Há um ou mais plugins necessários ou "
+"recomendados para instalar, atualizar ou ativar."
+
+#: F:\KarDealerTheme\kardealer_117\kardealer/inc/help.php:359
+msgid ""
+"Go to Dashboard  Appearence => Customize => Customize => Top Page Settings."
+msgstr ""
+"Vá para Dashboard Aparência => Personalizar => Personalizar => Configurações "
+"da Página de Topo."
+
+#: F:\KarDealerTheme\kardealer_117\kardealer/inc/help.php:362
+msgid ""
+"Go to Dashboard  Appearence => Customize => Customize => Footer Copyright."
+msgstr ""
+"Vá para Dashboard Aparência => Personalizar => Personalizar => Rodapé do "
+"Copyright."
+
+#: F:\KarDealerTheme\kardealer_117\kardealer/inc/help.php:366
+msgid "Dashboard => Cars For Sale => Settings"
+msgstr "Dashboard => Carros Para Venda =>Configurações"
+
+#: F:\KarDealerTheme\kardealer_117\kardealer/inc/help.php:369
+msgid "Go to Car Settings tab and you will find a startup guide there."
+msgstr ""
+"Vá para o Guia Configurações do Carro e lá você encontrará um guia de "
+"inicialização."
+
+#: F:\KarDealerTheme\kardealer_117\kardealer/inc/help.php:371
+msgid "You can also choose your currency, metric system etc..."
+msgstr "Você também pode escolher sua moeda, sistema métrico etc ..."
+
+#: F:\KarDealerTheme\kardealer_117\kardealer/inc/help.php:377
+msgid "To create a Show Room Page"
+msgstr "Para criar uma Página Show Room"
+
+#: F:\KarDealerTheme\kardealer_117\kardealer/inc/help.php:379
+msgid "Go to DashBoard => Pages and add a new one."
+msgstr "Vá para DashBoard => Páginas e adicione uma nova."
+
+#: F:\KarDealerTheme\kardealer_117\kardealer/inc/help.php:381
+msgid "Just copy and paste this Shortcode to your page:"
+msgstr "Basta copiar e colar este Shortcode  na sua página:"
+
+#: F:\KarDealerTheme\kardealer_117\kardealer/inc/help.php:389
+msgid "Overview"
+msgstr "Visão geral"
+
+#: F:\KarDealerTheme\kardealer_117\kardealer/inc/help.php:394
+msgid "Theme Options"
+msgstr "Opções de Temas"
+
+#: F:\KarDealerTheme\kardealer_117\kardealer/inc/help.php:399
+msgid "Setting up the Home"
+msgstr "Configurando o Homepage"
+
+#: F:\KarDealerTheme\kardealer_117\kardealer/inc/help.php:404
+msgid "Setting up the Menu"
+msgstr "Configurando o Menu"
+
+#: F:\KarDealerTheme\kardealer_117\kardealer/inc/help.php:409
+msgid "Setting up te Logo"
+msgstr "FALTA UM H EM INGLES    Configurando o Logotipo"
+
+#: F:\KarDealerTheme\kardealer_117\kardealer/inc/help.php:414
+msgid "Setting Top Info"
+msgstr "Definir Informações Principais"
+
+#: F:\KarDealerTheme\kardealer_117\kardealer/inc/help.php:425
+msgid "Cars Setup"
+msgstr "Configuração de Carros"
+
+#: F:\KarDealerTheme\kardealer_117\kardealer/inc/help.php:433
+msgid "Creating the Show Room"
+msgstr "Criando o Show Room"
+
+#: F:\KarDealerTheme\kardealer_117\kardealer/inc/pinstaller.php:105
+msgid "cardealer"
+msgstr "vendedor de carros"
+
+#: F:\KarDealerTheme\kardealer_117\kardealer/inc/template-tags.php:50
+#, php-format
+msgid "Leave a comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr "Deixe um comentário <span class=\"screen-reader-text\"> em % s</span>"
+
+#. translators: %s: Name of current post
+#: F:\KarDealerTheme\kardealer_117\kardealer/inc/template-tags.php:184
+#: F:\KarDealerTheme\kardealer_117\kardealer/template-parts/content.php:28
+#, php-format
+msgid "Continue reading<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr "Continue lendo<span class=\"screen-reader-text\"> \"%s\"</span>"
+
+#: F:\KarDealerTheme\kardealer_117\kardealer/search.php:17
+#, php-format
+msgid "Search Results for: %s"
+msgstr "Resultados da Pesquisa para: %s"
+
+#: F:\KarDealerTheme\kardealer_117\kardealer/single.php:34
+msgid "Next"
+msgstr "Próximo"
+
+#: F:\KarDealerTheme\kardealer_117\kardealer/single.php:35
+msgid "Next post:"
+msgstr "Próxima postagem:"
+
+#: F:\KarDealerTheme\kardealer_117\kardealer/single.php:37
+msgid "Previous"
+msgstr "Anterior"
+
+#: F:\KarDealerTheme\kardealer_117\kardealer/single.php:38
+msgid "Previous post:"
+msgstr "Postagem anterior:"
+
+#: F:\KarDealerTheme\kardealer_117\kardealer/template-parts/biography.php:33
+#, php-format
+msgid "View all posts by %s"
+msgstr "Ver todas as postagens por %s"
+
+#: F:\KarDealerTheme\kardealer_117\kardealer/template-parts/content-none.php:20
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+"pronto para publicar seu primeiro post? <a href=\"%1$s\"> Comece aqui </a>."

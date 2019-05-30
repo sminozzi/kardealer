@@ -1,0 +1,102 @@
+.toast-message {
+    left: 0;
+    position: fixed;
+    top: 49vh;
+    width: 100%;
+    z-index: 999;
+    font-size: 20px;
+ /*    padding: 40px; */
+    
+}
+#toastmessageouter {
+    background: rgba(0, 0, 0, 1) none repeat scroll 0 0;
+    color: #fff;
+    display: table;
+    font-weight: bold;
+    margin: 0 auto;
+    max-width: 70%;
+    padding: 16px;
+   padding: 40px;
+   
+    position: relative;
+    text-align: center;
+    
+	-webkit-border-radius: 5px;
+	-moz-border-radius: 5px;
+	border-radius: 5px;
+	-webkit-box-shadow: 0 0 10px #173859;
+	-moz-box-shadow: 0 0 10px #173859;
+	box-shadow: 0 0 10px #173859;
+    
+}
+.success-toast {
+    background: #5cb85c none repeat scroll 0 0 !important;
+    border: 2px solid #4cae4c;
+}
+.error-toast {
+    background: #d9534f none repeat scroll 0 0 !important;
+    border: 2px solid #d43f3a;
+}
+.warning-toast {
+    background: yellow none repeat scroll 0 0 !important;
+    border: 2px solid orange;
+}
+
+/* Fim toast */
+
+.myTitleClass3 .ui-dialog-titlebar {
+
+	color: #006799;
+    background: white;
+    border: 0px;
+    
+}
+
+ .ui-widget.ui-widget-content
+{
+ 
+	background: white;
+	-webkit-border-radius: 5px;
+	-moz-border-radius: 5px;
+	border-radius: 5px;
+	-webkit-box-shadow: 0 0 10px #173859;
+	-moz-box-shadow: 0 0 10px #173859;
+	box-shadow: 0 0 10px #173859;
+    
+    
+}
+
+
+.myTitleClass3 .ui-dialog-buttonpane .ui-dialog-buttonset .ui-button {
+    color: #ffffff;
+    background-color: #428bca;
+    border-color: #357ebd;
+}
+
+.myTitleClass3 .ui-dialog-buttonpane .ui-dialog-buttonset .ui-button.ui-state-hover{
+    color: #ffffff;
+    background-color: #3276b1;
+    border-color: #285e8e;
+}
+
+/***Dialog fixes**/
+
+.myTitleClass3 .ui-dialog-buttonset .ui-button:not(:first-child) {
+    cursor: pointer;
+    display: inline-block;
+    color: #333333;
+    background-color: #ffffff;
+    border: 1px solid #cccccc;
+    -webkit-transition: 0.1s linear all;
+    -moz-transition: 0.1s linear all;
+    -o-transition: 0.1s linear all;
+    transition: 0.1s linear all;
+    overflow: visible;
+}
+
+.myTitleClass3 .ui-dialog-buttonset .ui-button:not(:first-child).ui-state-hover{
+    color: #333333;
+    background-color: #ebebeb;
+    border-color: #adadad;
+    text-decoration: none;
+}

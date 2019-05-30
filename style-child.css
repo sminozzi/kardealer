@@ -1,0 +1,15 @@
+/*
+Theme Name: KarDealer
+Theme URI: http://kardealertheme.com/
+Author: Bill Minozzi
+Author URI: http://billminozzi.com/
+Description: Kar Dealer is a multilingual and multicurrency theme for dealership to manage, list and sell your new or used cars, motorbikes, motorcycles and vehicles online. Exclusive configurabile free plugin with Advanced search for cars, range slider for price, and 2 templates (list view, gallery). Responsive, Social menu available, wooCommerce compatible and full color control. 3 footer widgets, Layout Full or boxed, sticky header and Back to top Button. Choose a Light or Dark skin with one click. Hacker protection plugin install with just one click. No coding required. With StartUp guide, guide online, support, faq page, demo and 3 min demo video (www.KarDealerTheme.com)
+Version: 1.52
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Tags: one-column, two-columns, right-sidebar, custom-background, custom-colors, custom-header, custom-logo, footer-widgets, custom-menu, editor-style, featured-images, flexible-header, microformats, post-formats, rtl-language-support, sticky-post, threaded-comments, translation-ready, blog, full-width-template, theme-options, e-commerce
+Text Domain: kardealer
+This theme, like WordPress, is licensed under the GPL.
+Use it to make something cool, have fun, and share what you've learned with others.
+*/
+@import url("../kardealer/style.css");
